@@ -13,7 +13,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Seamless-Smart-Home/Seamless-Smart-Home">
+  <a href="https://github.com/Seamless-Smart-Home">
     <img src="images/logo.png" alt="Logo" width="600" height="374">
   </a>
 </div>
@@ -30,9 +30,11 @@ Inside this collection of repositories, you'll find the configuration for my hom
 
 - Home Assistant
 - Homebridge
+- OPNSense
 - Frigate
 - CompreFace
 - Double Take
+- [Hardware List] ()
 
 <!-- GETTING STARTED -->
 
