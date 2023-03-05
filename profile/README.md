@@ -28,12 +28,12 @@ Inside this collection of repositories, you'll find the configuration for my hom
 
 ### Built With
 
-- Home Assistant
-- Homebridge
-- OPNSense
-- Frigate
+- [Home Assistant](https://github.com/Seamless-Smart-Home/Home-Assistant)
+- [Homebridge](https://github.com/Seamless-Smart-Home/Homebridge)
+- [OPNSense](https://github.com/Seamless-Smart-Home/OPNSense)
+- [Frigate](https://github.com/Seamless-Smart-Home/Frigate)
 - CompreFace
-- Double Take
+- [Double Take](https://github.com/Seamless-Smart-Home/Double-Take)
 - [Hardware List](https://github.com/Seamless-Smart-Home/Hardware-List)
 
 <!-- GETTING STARTED -->
