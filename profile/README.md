@@ -34,7 +34,7 @@ Inside this collection of repositories, you'll find the configuration for my hom
 - Frigate
 - CompreFace
 - Double Take
-- [Hardware List] ()
+- [Hardware List](https://github.com/Seamless-Smart-Home/Hardware-List)
 
 <!-- GETTING STARTED -->
 
