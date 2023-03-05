@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Seamless-Smart-Home">
-    <img src="./images/logo.png" alt="Logo" width="600" height="374">
+    <img src="/profile/images/logo.png" alt="Logo" width="600" height="374">
   </a>
 </div>
 
