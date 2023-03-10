@@ -61,5 +61,5 @@ To get a local copy up and running follow these simple example steps.
 - []()
 - []()
 
-[discord-shield]: https://img.shields.io/discord/123456789?style=for-the-badge
+[discord-shield]: https://img.shields.io/discord/123456789?style=plastic
 [discord-url]: https://discord-join-url.com
